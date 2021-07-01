@@ -1,0 +1,135 @@
+
+	 [
+		{
+			"name": "Solid Men Hooded Neck Dark Blue T-Shirt",
+			"brand": "Levi's",
+            "gender":"Men",
+			"price": 1039,
+			"size": ["S", "M"],
+			"imgSrc": "https://rukminim1.flixcart.com/image/580/696/kf1fo280/t-shirt/b/w/d/xl-tw-3015peacock-tricky-wear-original-imafvh8wdcqbzkwy.jpeg?q=50",
+			"inCart":false,
+			"quantity":1,
+			"id":1,
+			"discount":10,
+			"dp":935.1
+			
+		},
+		{
+			"name": "Striped Men Polo Neck Multicolor T-Shirt",
+			"brand": "Peter England",
+            "gender":"Men",
+			"price": 809,
+			"size": ["S", "L"],
+			"imgSrc": "https://rukminim1.flixcart.com/image/580/696/kjhgzgw0-0/t-shirt/v/b/j/xl-t285hs-as7whblon-seven-rocks-original-imafzfkxpwghqu8j.jpeg?q=50",
+			"inCart":false,
+			"quantity":1,
+			"id":2,
+			"discount":20,
+			"dp":647.2
+		},
+		{
+			"name": "Solid Men Polo Neck White, Black T-Shirt",
+			"brand": "Levi's",
+            "gender":"Men",
+			"price": 595,
+			"size": ["S", "M"],
+			"imgSrc": "https://rukminim1.flixcart.com/image/580/696/kfeamq80-0/shirt/p/d/k/xl-bss-try-this-original-imafvvae4ghhy5pd.jpeg?q=50",
+			"inCart":false,
+			"quantity":1,
+			"id":3,
+			"discount":25,
+			"dp":446.25
+		},
+		{
+			"name": "Striped Men Round Neck Black T-Shirt",
+			"brand": "Peter England",
+            "gender":"Men",
+			"price": 989,
+			"size": ["M", "L", "XL"],
+			"imgSrc": "https://rukminim1.flixcart.com/image/580/696/kfeamq80-0/t-shirt/w/e/8/l-togo-try-this-original-imafvvbgytpenkkg.jpeg?q=50",
+			"inCart":false,
+			"quantity":1,
+			"id":4,
+			"discount":35,
+			"dp":642.85
+		},
+		{
+			"name": "Striped Men Hooded Neck Red, Black T-Shirt",
+			"brand": "Levi's",
+            "gender":"Men",
+			"price": 688,
+			"size": ["M", "L", "XL"],
+			"imgSrc": "https://rukminim1.flixcart.com/image/580/696/kf1fo280hlty2aw-0/t-shirt/w/s/e/-original-imafdfvvr8hqdu65.jpeg?q=50",
+			"inCart":false,
+			"quantity":1,
+			"id":5,
+			"discount":45,
+			"dp":378.4
+		},
+		{
+			"name": "Color Block Men Round Neck Black, White T-Shirt",
+			"brand": "Levi's",
+            "gender":"Men",
+			"price": 1189,
+			"size": ["S", "M", "L"],
+			"imgSrc": "https://rukminim1.flixcart.com/image/580/696/khdqnbk0/t-shirt/r/u/0/m-fc4173-fastcolors-original-imafxettxhthw8ye.jpeg?q=50",
+			"inCart":false,
+			"quantity":1,
+			"id":6,
+			"discount":10,
+			"dp":1070.1
+		},
+		{
+			"name": "Striped Men Round Neck Red T-Shirt",
+			"brand": "Levi's",
+            "gender":"Men",
+			"price": 2079,
+			"size": ["S", "M", "L", "XL"],
+			"imgSrc": "https://rukminim1.flixcart.com/image/580/696/kjiwfbk0-0/t-shirt/n/d/q/xs-t305-as10rdblwh-seven-rocks-original-imafz2qedu5zqvas.jpeg?q=50",
+			"inCart":false,
+			"quantity":1,
+			"id":7,
+			"discount":48,
+			"dp":1081.08
+		},
+		{
+			"name": "Solid Men Polo Neck Dark Blue, White T-Shirt",
+			"brand": "Peter England",
+            "gender":"Men",
+			"price": 809,
+			"size": ["S", "M", "XL"],
+			"imgSrc": "https://rukminim1.flixcart.com/image/580/696/kf8kvbk0-0/t-shirt/r/0/v/m-hct06-headzup-original-imafvqsrgbatzpnz.jpeg?q=50",
+			"inCart":false,
+			"quantity":1,
+			"id":8,
+			"discount":42,
+			"dp":469.22
+		},
+        {
+			"name": "Full Sleeve Solid Women Sweatshirt",
+			"brand": "Peter England",
+            "gender":"Women",
+			"price": 800,
+			"size": ["S", "M", "XL"],
+			"imgSrc": "https://rukminim1.flixcart.com/image/580/696/kmqn3bk0/sweatshirt/b/j/f/m-ckhd-g-06-02-chanda-khuba-original-imagfkzrfnhukkz6.jpeg?q=50",
+			"inCart":false,
+			"quantity":1,
+			"id":9,
+			"discount":47,
+			"dp":424
+		},
+        {
+			"name": "Full Sleeve Printed Women Sweatshirt",
+			"brand": "Puma",
+            "gender":"Women",
+			"price": 1092,
+			"size": ["S", "M", "XL"],
+			"imgSrc": "https://rukminim1.flixcart.com/image/580/696/khxqt8w0/sweatshirt/2/g/d/m-58015302-puma-original-imafxtk7affffzbe.jpeg?q=50",
+			"inCart":false,
+			"quantity":1,
+			"id":10,
+			"discount":10,
+			"dp":982.8
+		}
+	]
+
